@@ -1,0 +1,7 @@
+Author: Xin Liu
+Revised By: Brandon Beck
+
+This is a fork to Xin Liu's check cable script.  It adds the following capabilities:
+
+1) json-cfg to enable inline commenting of json cable file
+2) prettytable for output formatting
